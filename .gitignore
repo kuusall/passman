@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+build-release/
+bin/
+obj/
+*.o
+*.a
+*.so
+
+# Packaging
+pkg/
+*.pkg.tar.zst
+SHA256SUMS
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local data (CRITICAL: Never commit passwords/vaults)
+vault.dat
+*.dat
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

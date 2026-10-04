@@ -4,7 +4,7 @@ Passman is a local-first password manager written in C++20 for Arch Linux and ma
 for entry management, search, password generation, clipboard copying, import,
 export, and master-password rotation.
 
-> **Status: v1.0.0 release candidate.** The supported and validated targets are
+> **Status: v2.0.0 release candidate.** The supported and validated targets are
 > Arch Linux and macOS. Windows is unverified.
 
 ## Features
